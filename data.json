@@ -2,11 +2,11 @@
   "articles": [
     {
       "id": "kb_1",
-      "icon": "https://habrastorage.org/files/b0f/add/5a3/b0fadd5a3e1d46e78a6df2242765fd58.png",
+      "icon": "https://habrastorage.org/r/w1560/files/b0f/add/5a3/b0fadd5a3e1d46e78a6df2242765fd58.png",
       "title": "Как эффективно управлять проектами",
       "description": "Советы и методологии для успешного управления проектами.",
       "tags": ["Методология", "Советы"],
-      "images": ["https://habrastorage.org/files/b0f/add/5a3/b0fadd5a3e1d46e78a6df2242765fd58.png"],
+      "images": ["https://habrastorage.org/r/w1560/files/b0f/add/5a3/b0fadd5a3e1d46e78a6df2242765fd58.png"],
       "videoUrl": ""
     },
     {
