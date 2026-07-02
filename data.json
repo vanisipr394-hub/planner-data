@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "id": "kb_1",
+      "icon": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=400&fit=crop",
+      "title": "Как эффективно управлять проектами",
+      "description": "Советы и методологии для успешного управления проектами.",
+      "tags": ["Методология", "Советы"],
+      "images": ["https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop"],
+      "videoUrl": ""
+    },
+    {
+      "id": "kb_2",
+      "icon": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=400&h=400&fit=crop",
+      "title": "Agile vs Waterfall: что выбрать?",
+      "description": "Сравнение двух популярных методологий разработки.",
+      "tags": ["Agile", "Waterfall"],
+      "images": ["https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=400&fit=crop"],
+      "videoUrl": ""
+    }
+  ]
+}
